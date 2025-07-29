@@ -1,0 +1,9 @@
+
+/procurement_portal_backend/venv
+/procurement_portal_backend/app/__pycache__
+/procurement_portal_backend/__pycache__
+/procurement_portal_backend/app/utils/__pycache__
+/procurement_portal_backend/migrations/__pycache__
+/procurement_portal/.next
+/procurement_portal/node_modules
+/procurement_portal_backend/app/__pycache__

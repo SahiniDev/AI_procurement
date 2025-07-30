@@ -13,6 +13,8 @@
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
+   pip install flask_migrate
+   pip install openai
    ```
 
 3. **Run the Backend**
